@@ -1,2 +1,4 @@
 # Vacuum Agent
-Here we used the Agent as a Zig-Zag Sweep Agent. So, this optimized version reduces the average steps.
+In the optimized version, we used a Zig - Zag Sweep agent which systematically traverses the grid. This directed motion reduces unnecessary moves and minimizes the average steps compared to the baseline model.  
+
+ 
